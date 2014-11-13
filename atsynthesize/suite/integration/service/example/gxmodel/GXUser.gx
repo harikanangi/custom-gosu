@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gx-model type="entity.User" xmlns="http://guidewire.com/gx">
+  <includes>
+    <include path="Contact.FirstName" type="java.lang.String" propertyInclusionType="NORMAL"/>
+    <include path="Contact.LastName" type="java.lang.String" propertyInclusionType="NORMAL"/>
+    <include path="Credential.UserName" type="java.lang.String" propertyInclusionType="NORMAL"/>
+    <include path="PublicID" type="java.lang.String" propertyInclusionType="NORMAL"/>
+  </includes>
+</gx-model>

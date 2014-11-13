@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!--
+//
+//  XSDExample.xsd
+//
+//  Created by Hari Kanangi on 01/25/2013.
+//  Copyright (c) 2013 Hari Kanangi. 
+//  License: http://www.harikanangi.com/license.txt
+//
+-->
+<xsd:schema
+      xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlns="http://atsynthesize.com/wsi/xsd/example"
+      targetNamespace="http://atsynthesize.com/wsi/xsd/example"
+      elementFormDefault="qualified">
+  <xsd:element
+        name="InputParameter" type="ExampleInputType" nillable="true"/>
+  <xsd:complexType
+        name="ExampleInputType">
+    <xsd:sequence>
+      <xsd:element name="input1" minOccurs="0" nillable="true" type="xsd:string"/>
+      <xsd:element name="input2" minOccurs="0" nillable="true" type="xsd:string"/>
+      <xsd:element name="input3" minOccurs="0" nillable="true" type="xsd:string"/>
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:element
+        name="OutputParameter" type="ExampleOutputType" nillable="true"/>
+  <xsd:complexType
+        name="ExampleOutputType">
+    <xsd:sequence>
+      <xsd:element name="output1" minOccurs="0" nillable="true" type="xsd:string"/>
+      <xsd:element name="output2" minOccurs="0" nillable="true" type="xsd:string"/>
+      <xsd:element name="output3" minOccurs="0" nillable="true" type="xsd:string"/>
+    </xsd:sequence>
+  </xsd:complexType>
+</xsd:schema>
