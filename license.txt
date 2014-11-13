@@ -24,7 +24,7 @@ Suggested Attribution Format
 
 The license requires that you give credit to Hari Kanangi, as the original author of any of the source that you use from this repository. The placement and format of the credit is to be at the top of the each source file downloaded from this repository. The suggested format for the attribution is:
 
-"Initial version created by Hari Kanangi (www.harikanangi.com)" 
+"Initial version created by Hari Kanangi" 
 
 Where possible, please link the text "Hari Kanangi" to the following URL, or include the URL as plain text: http://www.harikanangi.com/
 
