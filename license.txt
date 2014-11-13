@@ -13,7 +13,7 @@ Basically, the license says that:
 
 You can use the code in your own projects/products, including commercial and/or closed-source projects/products.
 You can modify the code as you wish, and use the modified code in your projects/products.
-You can redistribute the original, unmodified code, but you have to include the full license text below.
+You can redistribute the original, unmodified code, but you have to leave the attribution comment text at the top of the source file untouched.
 You can redistribute the modified code as you wish (without the full license text below).
 In all cases, you must include a credit mentioning Hari Kanangi as the original author of the source.
 Hari Kanangi is not liable for anything you do with the code, no matter what. So be sensible.
