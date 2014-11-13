@@ -1,0 +1,45 @@
+Hari Kanangi Source Code License
+Last updated: 01/05/2013
+
+Thanks for downloading the source code!
+
+This is the license agreement for the source code included in this repository. [NOTE: You can use any/all the software included in your own products, projects, commerical or otherwise].
+
+The full license text is further down this page, and you should only use the source code if you agree to the terms in that text. For convenience, though, we’ve put together a human-readable non-authoritative interpretation of the license which will hopefully answer any questions you have.
+
+Your rights and obligations
+
+Basically, the license says that:
+
+You can use the code in your own projects/products, including commercial and/or closed-source projects/products.
+You can modify the code as you wish, and use the modified code in your projects/products.
+You can redistribute the original, unmodified code, but you have to include the full license text below.
+You can redistribute the modified code as you wish (without the full license text below).
+In all cases, you must include a credit mentioning Hari Kanangi as the original author of the source.
+Hari Kanangi is not liable for anything you do with the code, no matter what. So be sensible.
+You can’t use the name Hari Kanangi or any other related marks to promote your projects/products based on the code.
+If you agree to all of that, go ahead and use the source. Otherwise, don’t!
+
+Suggested Attribution Format
+
+The license requires that you give credit to Hari Kanangi, as the original author of any of the source that you use from this repository. The placement and format of the credit is to be at the top of the each source file downloaded from this repository. The suggested format for the attribution is:
+
+"Initial version created by Hari Kanangi (www.harikanangi.com)" 
+
+Where possible, please link the text "Hari Kanangi" to the following URL, or include the URL as plain text: http://www.harikanangi.com/
+
+Full Source Code License Text
+License Agreement for Source Code provided by Hari Kanangi
+
+This software is supplied to you by Hari Kanangi in consideration of your agreement to the following terms, and your use, installation, modification or redistribution of this software constitutes acceptance of these terms. If you do not agree with these terms, please do not use, install, modify or redistribute this software.
+
+In consideration of your agreement to abide by the following terms, and subject to these terms, Hari Kanangi grants you a personal, non-exclusive license, to use, reproduce, modify and redistribute the software, with or without modifications, in source and/or binary forms; provided that if you redistribute the software in its entirety and without modifications, you must retain this notice and the following text and disclaimers in all such redistributions of the software, and that in all cases attribution of Hari Kanangi as the original author of the source code shall be included in all such resulting software products or distributions.
+
+Neither the name, trademarks, service marks or logos of Hari Kanangi may be used to endorse or promote products derived from the software without specific prior written permission from Hari Kanangi. Except as expressly stated in this notice, no other rights or licenses, express or implied, are granted by Hari Kanangi herein, including but not limited to any patent rights that may be infringed by your derivative works or by other works in which the software may be incorporated.
+
+THE SOFTWARE IS PROVIDED BY HARI KANANGI ON AN "AS IS" BASIS. HARI KANANGI MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, REGARDING THE SOFTWARE OR ITS USE AND OPERATION ALONE OR IN COMBINATION WITH YOUR PRODUCTS.
+
+IN NO EVENT SHALL HARI KANANGI BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) ARISING IN ANY WAY OUT OF THE USE, REPRODUCTION, MODIFICATION AND/OR DISTRIBUTION OF THE SOFTWARE, HOWEVER CAUSED AND WHETHER UNDER THEORY OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, EVEN IF HARI KANANGI HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+ALL REFERENCES TO GUIDEWIRE®©, GUIDEWIRE INSURANCE SUITE®©, POLICYCENTER®©, CLAIMCENTER®©, BILLINGCENTER®© AND CONTACTMANAGER®© IN ANY DOCUMENTATION AND/OR ARTICLE RELATED TO THE SOFTWARE ARE USED SOLELY FOR IDENTIFICATION PURPOSES ONLY AND IS/ARE ALL THE PROPERTY OF, AND SOLELY OWNED BY, GUIDEWIRE SOFTWARE INC AND NOT HARI KANANGI.
