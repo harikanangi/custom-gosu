@@ -26,7 +26,7 @@ The license requires that you give credit to Hari Kanangi, as the original autho
 
 "Initial version created by Hari Kanangi" 
 
-Where possible, please link the text "Hari Kanangi" to the following URL, or include the URL as plain text: http://www.harikanangi.com/
+Where possible, please link the text "Hari Kanangi" to the following URL, or include the URL as plain text: http://harikanangi.com/
 
 Full Source Code License Text
 License Agreement for Source Code provided by Hari Kanangi
