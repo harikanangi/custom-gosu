@@ -1,0 +1,16 @@
+Quick Install:
+
+Pre Requirements:
+- Need to install one of the Guidewire InsuranceSuite™ products (PolicyCenter™, ClaimCenter™, BillingCenter™ or ContactManager™)
+
+
+Installation:
+- Copy the atsynthesize folder under the ${xx}/modules/configuration/gsrc folder, where ${xx} is the Guidewire InsuranceSuite™ product base folder
+- Start the product from either netbeans/eclipse/command line using the instructions provided in the Product Admin Manual
+- Access the Example Web Services wsdl defintions at the following URLS
+	(i)   - http://localhost:${port}/${xx}/ws/atsynthesize/suite/integration/service/example/gxmodel/GXModelExampleAPI?WSDL
+	(ii)  - http://localhost:${port}/${xx}/ws/atsynthesize/suite/integration/service/example/pogo/POGOExampleAPI?WSDL
+	(iii) - http://localhost:${port}/${xx}/ws/atsynthesize/suite/integration/service/example/xsd/XSDExampleAPI?WSDL 
+	where ${xx} is one of the product web app names and ${port} is the port where the app is hosted
+- Use SOAP-UI or any other SOAP client to invoke the web service indicated in the Example Web Service WSDL by using one of the
+	URL's above. This will invoke and provide the results of the sample services.
