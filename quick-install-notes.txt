@@ -6,7 +6,7 @@ Pre Requirements:
 
 Installation:
 - Copy the atsynthesize folder under the ${xx}/modules/configuration/gsrc folder, where ${xx} is the Guidewire InsuranceSuite™ product base folder
-- Start the product from either netbeans/eclipse/command line using the instructions provided in the Product Admin Manual
+- Start the product's jetty server from either eclipse/idea4j/netbeans/command line using the instructions provided in the Product Admin Manual
 - Access the Example Web Services wsdl defintions at the following URLS
 	(i)   - http://localhost:${port}/${xx}/ws/atsynthesize/suite/integration/service/example/gxmodel/GXModelExampleAPI?WSDL
 	(ii)  - http://localhost:${port}/${xx}/ws/atsynthesize/suite/integration/service/example/pogo/POGOExampleAPI?WSDL
